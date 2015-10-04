@@ -1,0 +1,19 @@
+{
+  "name": "totro",
+  "version": "1.0.0",
+  "description": "A port of David A. Wheeler's Totro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flcoder/totro.git"
+  },
+  "author": "William Oney <flcoder@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/flcoder/totro/issues"
+  },
+  "homepage": "https://github.com/flcoder/totro#readme"
+}
