@@ -1,7 +1,7 @@
 {
   "name": "totro",
   "version": "1.0.0",
-  "description": "A port of David A. Wheeler's Totro",
+  "description": "A port of David A. Wheeler's Totro for use as a library.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
