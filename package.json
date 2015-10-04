@@ -1,6 +1,6 @@
 {
   "name": "totro",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A port of David A. Wheeler's Totro for use as a library.",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/flcoder/totro/issues"
   },
-  "homepage": "https://github.com/flcoder/totro#readme"
+  "homepage": "https://github.com/flcoder/totro#readme",
+  "keywords": ["random","name","generator","fantasy"]
 }
