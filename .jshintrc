@@ -1,0 +1,7 @@
+{
+	"globalstrict": true,
+	"strict": false,
+	"node": true,
+	"devel": true,
+	"browser": true
+}
