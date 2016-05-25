@@ -1,6 +1,6 @@
 # Totro, the Fantasy Random Name Generator
 A port of David A. Wheeler's Totro for use as a library.
-
+http://www.dwheeler.com/totro.html
 ## Usage
 
 Node: `npm install totro`
